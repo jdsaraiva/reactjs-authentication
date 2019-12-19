@@ -13,8 +13,6 @@ class App extends Component {
         this.auth = new Auth(this.props.history);
     }
 
-
-    
     render() {
         return (
             <>
